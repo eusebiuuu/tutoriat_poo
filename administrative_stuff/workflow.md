@@ -1,6 +1,8 @@
-- Refactor the sources
-- Refactor the table of contents
-- Meeting with the colaborators
+- Add sources (theory and exercises)
+- Meeting with the collaborators
+	- Set the workflow
+	- Set the sources
+	- Create the table of contents
 - Add README for general description and motivation
 - Create social media channels
 - Popularisation and advertising
