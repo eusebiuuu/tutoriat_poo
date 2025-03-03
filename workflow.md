@@ -1,0 +1,23 @@
+- Refactor the sources
+- Refactor the structure
+- Create table of contents
+- Meeting with the colaborators
+- Add README for general description and motivation
+- Create social media channels
+- Popularisation and advertising
+- Integrate in the daily plan & email remiders
+
+---
+
+- Go through the theory materials and write summary materials
+  - Courses
+  - [mc_marius repo](https://github.com/mcmarius/poo/tree/master)
+  - https://github.com/GabrielMajeri/materiale-poo
+  - https://github.com/FMI-Materials/FMI-Materials
+- Find practice exercises
+  - Exercises (find exam and seminars sources)
+  - Object Oriented Design interview questions
+  - Lab test problems
+- Push the final version and announce the collaborator
+- Final reviews and modifications
+- Local lesson teaching plan (meeting / freestyle): breaks, division, questions, project etc.
